@@ -45,11 +45,11 @@
 	}
 	
 	a.file {
-		background-image:url(index/link_icon.png);	
+		background-image:url(images/link_icon.png);	
 	}
 	
 	a.folder {
-		background-image:url(index/link_folder_icon.png);	
+		background-image:url(images/link_folder_icon.png);	
 	}
 </style>
 
